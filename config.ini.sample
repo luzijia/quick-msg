@@ -1,0 +1,13 @@
+[sys]
+# 系统日志路径
+#LogPath=/tmp
+
+[producer]
+# 生产者接口
+#Port=8081
+
+[worker]
+# 可执行程序路径 目前支持 python和php版本
+#WorkerExecutionPath = /usr/bin/python3
+# 消费者程序地址
+#WorkerPath=/tmp/test.py
