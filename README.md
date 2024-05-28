@@ -2,7 +2,7 @@
 ### 简介：无需安装Kafka等消息中间件就能使用消息队列的服务。
 ### 安装说明:
 1. 编辑 config.ini
-2. 执行 ./qmsg config.php.ini
+2. 执行 ./qmsg config.ini
 
 #### 硬件要求
 1. 操作系统：RHEL, CentOS,Ubuntu,macOS 10.13+
